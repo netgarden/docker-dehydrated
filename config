@@ -1,0 +1,7 @@
+## docker-dehydrated config
+
+BASEDIR=/data
+DOMAINS_TXT=/data/config/domains.txt
+CERTDIR=/data/certs
+ACCOUNTDIR=/data/accounts
+WELLKNOWN=/data/wellknown
